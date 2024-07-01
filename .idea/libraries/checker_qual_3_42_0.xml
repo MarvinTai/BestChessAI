@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="checker-qual-3.42.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files/checker-qual-3.42.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/error_prone_annotations-2.26.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/failureaccess-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/guava-33.2.1-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/j2objc-annotations-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/jsr305-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files/guava-gwt-33.2.1-jre.jar!/" />
+    </SOURCES>
+  </library>
+</component>
